@@ -111,6 +111,5 @@ http://<EC2-Public-IP>:3000
 ## 👩‍💻 Author
 
 **Ankita Pansare**  
-Aspiring DevOps Engineer | AWS & DevOps Enthusiast  
 
 ---
